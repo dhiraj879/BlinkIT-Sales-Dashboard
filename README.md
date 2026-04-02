@@ -32,7 +32,7 @@ This project analyzes grocery sales data using Power BI to uncover insights on p
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](<img width="1407" height="754" alt="Screenshot 2026-04-02 134111" src="https://github.com/user-attachments/assets/ecf6aa5c-5570-412a-b5bc-0c2745a101f0" />
+(<img width="1407" height="754" alt="Screenshot 2026-04-02 134111" src="https://github.com/user-attachments/assets/ecf6aa5c-5570-412a-b5bc-0c2745a101f0" />
 )
 
 ---

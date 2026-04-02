@@ -40,7 +40,6 @@ This project analyzes grocery sales data using Power BI to uncover insights on p
 ## 📂 Files Included
 - BlinkIT Dashboard.pbix
 - cleaned_blinkit_data.csv
-- dashboard.png
 
 ---
 
